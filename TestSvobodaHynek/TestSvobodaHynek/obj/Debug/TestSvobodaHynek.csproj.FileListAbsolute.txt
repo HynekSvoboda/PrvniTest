@@ -1,0 +1,10 @@
+G:\TestSvobodaHynek\TestSvobodaHynek\bin\Debug\TestSvobodaHynek.exe.config
+G:\TestSvobodaHynek\TestSvobodaHynek\bin\Debug\TestSvobodaHynek.exe
+G:\TestSvobodaHynek\TestSvobodaHynek\bin\Debug\TestSvobodaHynek.pdb
+G:\TestSvobodaHynek\TestSvobodaHynek\obj\Debug\TestSvobodaHynek.csprojAssemblyReference.cache
+G:\TestSvobodaHynek\TestSvobodaHynek\obj\Debug\TestSvobodaHynek.Form1.resources
+G:\TestSvobodaHynek\TestSvobodaHynek\obj\Debug\TestSvobodaHynek.Properties.Resources.resources
+G:\TestSvobodaHynek\TestSvobodaHynek\obj\Debug\TestSvobodaHynek.csproj.GenerateResource.cache
+G:\TestSvobodaHynek\TestSvobodaHynek\obj\Debug\TestSvobodaHynek.csproj.CoreCompileInputs.cache
+G:\TestSvobodaHynek\TestSvobodaHynek\obj\Debug\TestSvobodaHynek.exe
+G:\TestSvobodaHynek\TestSvobodaHynek\obj\Debug\TestSvobodaHynek.pdb
